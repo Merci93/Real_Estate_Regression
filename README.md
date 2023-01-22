@@ -11,8 +11,8 @@ The data consists of the following variables:
 - **house_age** - the house age (in years)
 - **transit_distance** - the distance to the nearest light rail station (in meters)
 - **local_convenience_stores** - the number of convenience stores within walking distance
-- **latitude** - the geographic coordinate, latitude
-- **longitude** - the geographic coordinate, longitude
+- **latitude** - the geographic coordinate, latitude (unit: degree)
+- **longitude** - the geographic coordinate, longitude (unit: degree)
 - **price_per_unit** - house price of unit area (3.3 square meters)
 
 ## Task
