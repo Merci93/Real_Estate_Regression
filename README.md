@@ -18,6 +18,23 @@ The data consists of the following variables:
 ## Task
 The dataset will be explored and prepared for analysis, predictive features that will help predict the price_per_unit label wil be identified and selected, and a regression model that achieves the lowest Root Mean Square Error (RMSE), which must be less than 7 when evaluated against a test subset of data will be trained and evaluated with the training subset data.
 
+## Packages
+1. Pandas
+2. Matplotlib
+3. seaborn
+4. folium
+5. sklearn
+
+## Approach
+1. Data Exploration
+2. Map view for estate locations using folium
+3. Remove outlier values in price_per_unit
+4. Correlation check
+5. Separate labels and features
+6. Build regression model
+7. Validate model
+8. Test
+
 # More updates coming!!!
 
 
