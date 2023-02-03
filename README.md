@@ -2,7 +2,7 @@
 ## Predicting the selling price of a residential property using regression analysis.
 Predicting the selling price of a residential property depends on a number of factors, including the property age, availability of local amenities, and location.
 
-In this challenge, you will use a dataset of real estate sales transactions to predict the price-per-unit of a property based on its features. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
+A dataset containing real estate sales transactions was used to predict the price-per-unit of a property based on its features. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
 
 ## The Dataset
 The data consists of the following variables:
@@ -16,7 +16,9 @@ The data consists of the following variables:
 - **price_per_unit** - house price of unit area (3.3 square meters)
 
 ## Task
-The dataset will be explored and prepared for analysis, predictive features that will help predict the price_per_unit label wil be identified and selected, and a regression model that achieves the lowest Root Mean Square Error (RMSE), which must be less than 7 when evaluated against a test subset of data will be trained and evaluated with the training subset data.
+1. Explore and prepare dataset for analysis
+2. Identify and select predictive features that will help predict the price_per_unit label
+3. Build a regression model that achieves the lowest Root Mean Square Error (RMSE), which must be less than 7 when evaluated against a test subset of data, will be trained and evaluated with the training subset data.
 
 ## Packages
 1. Pandas
@@ -24,6 +26,7 @@ The dataset will be explored and prepared for analysis, predictive features that
 3. seaborn
 4. folium
 5. sklearn
+6. plotly express
 
 ## Approach
 1. Data Exploration
@@ -32,7 +35,7 @@ The dataset will be explored and prepared for analysis, predictive features that
 4. Correlation check
 5. Separate labels and features
 6. Build regression model
-7. Validate model
+7. Evaluate and validate models
 8. Test
 
 # More updates coming!!!
