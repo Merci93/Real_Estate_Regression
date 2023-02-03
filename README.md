@@ -38,9 +38,6 @@ The data consists of the following variables:
 7. Evaluate and validate models
 8. Test
 
-# More updates coming!!!
-
-
 >Citation: The data used in this exercise originates from the following study:
 
 >Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271.
